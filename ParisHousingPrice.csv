@@ -1,4 +1,3 @@
-https://www.kaggle.com/datasets/mssmartypants/paris-housing-price-prediction,,,,,,,,,,,,,,,,
 squareMeters,numberOfRooms,hasYard,hasPool,floors,cityCode,cityPartRange,numPrevOwners,made,isNewBuilt,hasStormProtector,basement,attic,garage,hasStorageRoom,hasGuestRoom,price
 75523,3,0,1,63,9373,3,8,2005,0,1,4313,9005,956,0,7,7559081.5
 80771,39,1,1,98,39381,8,6,2015,1,0,3653,2436,128,1,2,8085989.5
